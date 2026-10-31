@@ -6,3 +6,4 @@ sdkconfig.*
 secure_boot_signing_key.pem
 *.pem
 .DS_Store
+log/
